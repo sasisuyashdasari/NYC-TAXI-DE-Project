@@ -14,7 +14,7 @@ The goal of this project is to build a scalable and production-style ETL pipelin
 ## Architecture
 
 ```text
-NYC Taxi Dataset
+NYC Taxi Dataset (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
         │
         ▼
 Azure Data Factory

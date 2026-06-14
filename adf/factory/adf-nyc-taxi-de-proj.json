@@ -1,0 +1,15 @@
+{
+	"name": "adf-nyc-taxi-de-proj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fae5af41-96a9-4a32-8c61-82342402266b",
+		"tenantId": "dbcf152e-4e96-44a1-93b4-b47d2e4e4257"
+	}
+}
